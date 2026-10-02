@@ -3,9 +3,9 @@
     "mylinks@hmcdata.dk": {
       "updates": [
         {
-          "version": "0.6.3",
-          "update_link": "https://raw.githubusercontent.com/henrikmc/MyLinks-Updates/main/releases/mylinks-0.6.3-signed.xpi",
-          "update_hash": "sha256:4d7974522cf2d1c7f2d1a273c8c43a98adedf747037bd049d532fd764ae0d8dc",
+          "version": "0.6.4",
+          "update_link": "https://raw.githubusercontent.com/henrikmc/MyLinks-Updates/main/releases/mylinks-0.6.4-signed.xpi",
+          "update_hash": "sha256:8602f9c2749b98ea0da92003f2584616190ad0a8b3e1f1d1c1b9e77e0bd5506e",
           "applications": {
             "gecko": {
               "strict_min_version": "140.0"
